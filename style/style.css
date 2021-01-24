@@ -1,0 +1,83 @@
+body {
+    background-color: gray;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+hr {
+    height: 2px;
+    border-width: 0px;
+    margin-left: 75px;
+    margin-right: 75px;
+    background-color: #1D1D4E;
+}
+
+p {
+    text-align: justify;
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+a:active {
+    color: red;
+}
+
+table {
+    background-color: gray;
+    box-shadow: 5px 5px 5px #1D1D4E;
+}
+
+tr, td {
+    width: 150px;
+    height: 25px;
+    border: 0.5px dashed #1D1D4E;
+    color: #ffffff;
+}
+
+.fejsor {
+    background-color: #1D1D4E;
+    text-align: center;
+    font-weight: bold;
+}
+
+.forras {
+    text-align: center;
+    font-style: italic;
+}
+
+.elso {
+    text-align: end;
+    font-weight: bold;
+}
+
+.masodik {
+    text-align: start;
+    font-style: italic;
+}
+
+#balkep {
+    height: 130px;
+    box-shadow: 5px 5px 5px #1D1D4E;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+#jobbkep {
+    height: 300px;
+    float: right;
+    box-shadow: 5px 5px 5px #1D1D4E;
+}
